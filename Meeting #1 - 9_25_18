@@ -1,0 +1,36 @@
+
+Software Development Methods and Tools
+Group: Beats by David
+Meeting #1 - 9/25/2018
+9:00 AM - 11:00 AM - ITLL Common Area
+
+David Kopala
+Alex Ho
+Albert Deng
+Johnson Kopala
+Jot Kaur
+Jon Oulton
+
+Meeting Notes:
+Our goal for the day was to create the repositories required for the project, and get everyone up-to-date reagrding how to use gitHub and make changes to our repositories, responsibly.
+
+David created the repositories and an "organization" on gitHub, which is called "BeatsByDavid" and can be found at https://github.com/BeatsByDavid
+
+We discussed our vision statement, which is roughly as follows:
+"Helping CU engineering students find an optimal place to study peacefully."
+
+In our first group discussion (in lab last week) we settled on a project we are happy with. Here is our goal:
+Sset up a small fleet of raspberryPi in common study areas around the engineering center. Each raspberryPi will have a microphone attached to it (that only records decible magnitude, not conversations!) and a thermometer. These devices will be placed in common study areas around the engineering center to record the magnitude of sound and the temperature at different times throughout the day. This information will be stored in some type of SQL database and will be able to be viewed through a simple cloud-based website. *** If successful, this project will allow students to view the average temperature and 'loudness' of different study areas in the engineering center, providing a resource to find the most comfortable, quiet study area. ***
+
+Further, we plan to use the Agile project management style to implement our project. The steps for this have yet to be defined and will be discussed next week.
+
+We discussed some hardware requirements as well, here is a tentative list w/ rough prices:
+-raspberryPi zero w (~$12/each)
+-3-pin microphone (~$6/each)
+-Jumper wires to connect the microphone to rPi ($?)
+-Thermometer for rPi (~$1/each)
+-9V batteries ($?)
+Total cost has yet to be determined.
+
+Since we still need to do a proposal and have our project approved, we do not currently have goals for our next meeting. Standing by.
+
