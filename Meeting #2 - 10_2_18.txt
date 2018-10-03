@@ -1,0 +1,19 @@
+
+Software Development Methods and Tools
+Group: Beats by David
+Meeting #2 - 10/2/2018
+9:00 AM - 11:00 AM - ITLL AT&T Study Room
+
+David Kopala
+Alex Ho
+Albert Deng
+Johnson Kopala
+Jot Kaur
+Jon Oulton
+
+Meeting Notes:
+During this meeting, we created the Milestone #1 file, a proposal for our project.
+
+This was all we worked on. The PDF for this file has been pushed to our Milestone repo on the BeatsByDavid GitHub.
+
+For further details, plese see that PDF file.
