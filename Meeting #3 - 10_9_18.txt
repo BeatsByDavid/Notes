@@ -1,0 +1,27 @@
+
+Software Development Methods and Tools
+Group: Beats by David
+Meeting #3 - 10/9/2018
+9:00 AM - 11:00 AM - ITLL
+
+David Kopala
+Alex Ho
+Albert Deng
+Johnson Kopala
+Jot Kaur
+Jon Oulton
+
+Meeting Notes:
+This was a longer meeting, during which we spent the majority of the time doing two tasks:
+1) Developing our Zoho account for project managment
+2) Completing the tasks for Milestone #2
+
+Everyone has been added to the Zoho page, and we are becoming more familiar with it.
+
+Progress:
+-Two raspberryPi devices have been purchased and we will start to program them soon.
+-We have narrowed the scope of our project a bit
+
+We did a stand-up meeting for our sprint.
+
+More details on all of the above are located within the milestone #2 pdf document, in the "Milestone" repo

@@ -1,0 +1,17 @@
+
+Software Development Methods and Tools
+Group: Beats by David
+Meeting #4 - 10/15/2018
+9:30 AM - 11:30 AM - ITLL
+
+David Kopala
+Alex Ho
+Albert Deng
+Johnson Kopala
+Jot Kaur
+Jon Oulton
+
+Meeting Notes:
+We learned how to host a website on our local computers as servers (thanks David) and set up a code folder for the "Frontend" code documents
+Our Zoho account was further developed, and we finished setting up all the tasks necessary for the first 3 sprints.
+We distributed tasks for the week, which mainly included watching some tutorials on React and installing web service applications on David's servers, so we have a place to host our website.
